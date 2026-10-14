@@ -1,0 +1,14 @@
+{
+  "source": "https://openpress.sussex.ac.uk/introductiontobiologicalpsychology/",
+  "generated_at": "2026-10-14T18:57:40.928373+00:00",
+  "pages": 28,
+  "media_downloaded": 203,
+  "media_failed": [],
+  "licence": "CC BY-NC 4.0, except where otherwise noted",
+  "translation": {
+    "locale": "es-AR",
+    "translated_pages": 2,
+    "status": "Primer capítulo traducido; los capítulos restantes permanecen temporalmente en inglés.",
+    "guide": "../libroneuro/GUIA_DE_TRADUCCION.md"
+  }
+}
