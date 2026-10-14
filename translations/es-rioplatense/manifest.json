@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-  "status": "Primer capítulo traducido; los capítulos restantes permanecen temporalmente en inglés.",
+  "status": "Dos capítulos traducidos; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -11,6 +11,14 @@
     "introduction-to-biological-psychology.html": {
       "title": "Introducción a la psicología biológica",
       "source": "chunks/introduction"
+    },
+    "structure-of-the-nervous-system.html": {
+      "title": "Organización del sistema nervioso",
+      "source": "pages/structure-of-the-nervous-system.html"
+    },
+    "exploring-the-brain-a-tour-of-the-structures-and-cells-of-the-nervous-system.html": {
+      "title": "Exploración del cerebro: recorrido por las estructuras del sistema nervioso",
+      "source": "chunks/exploring-brain"
     }
   }
 }

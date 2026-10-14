@@ -23,8 +23,8 @@ Después, abrir <http://localhost:8002>.
 ## Edición progresiva en español
 
 La traducción al español rioplatense se genera en [`site-es/`](site-es/). Por
-ahora incluye el primer capítulo; las páginas restantes se conservan en inglés
-para que la navegación siga funcionando.
+ahora incluye los dos primeros capítulos; las páginas restantes se conservan
+en inglés para que la navegación siga funcionando.
 
 ```bash
 python build_spanish_site.py

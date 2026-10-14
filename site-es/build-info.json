@@ -1,14 +1,23 @@
 {
   "source": "https://openpress.sussex.ac.uk/introductiontobiologicalpsychology/",
-  "generated_at": "2026-10-14T18:57:40.928373+00:00",
+  "generated_at": "2026-10-14T19:07:46.713157+00:00",
   "pages": 28,
-  "media_downloaded": 203,
-  "media_failed": [],
+  "media_downloaded": 201,
+  "media_failed": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Astrocytes.jpg?20121125145115",
+      "error": "HTTPSConnectionPool(host='upload.wikimedia.org', port=443): Max retries exceeded with url: /wikipedia/commons/4/43/Astrocytes.jpg?20121125145115 (Caused by ResponseError('too many 429 error responses'))"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Microglia_in_a_Healthy_Adult_Mouse_Retina_%2840264110974%29.jpg/600px-Microglia_in_a_Healthy_Adult_Mouse_Retina_%2840264110974%29.jpg?20200312044150",
+      "error": "HTTPSConnectionPool(host='upload.wikimedia.org', port=443): Max retries exceeded with url: /wikipedia/commons/7/7b/Microglia_in_a_Healthy_Adult_Mouse_Retina_%2840264110974%29.jpg (Caused by ResponseError('too many 429 error responses'))"
+    }
+  ],
   "licence": "CC BY-NC 4.0, except where otherwise noted",
   "translation": {
     "locale": "es-AR",
-    "translated_pages": 2,
-    "status": "Primer capítulo traducido; los capítulos restantes permanecen temporalmente en inglés.",
+    "translated_pages": 4,
+    "status": "Dos capítulos traducidos; los capítulos restantes permanecen temporalmente en inglés.",
     "guide": "../libroneuro/GUIA_DE_TRADUCCION.md"
   }
 }
