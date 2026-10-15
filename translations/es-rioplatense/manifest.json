@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-  "status": "Dos capítulos traducidos; los capítulos restantes permanecen temporalmente en inglés.",
+  "status": "Tres capítulos traducidos; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -38,6 +38,16 @@
         "d1091a26bed28e25-blausen_0216_cerebrospinalsystem-350x263.png": "figures/chapter-2/es-fig-2-21.png",
         "d19226e2c7f63aae-1316_meningeal_layersn-1-350x190.png": "figures/chapter-2/es-fig-2-22.png",
         "0d37411e27493b93-bloodvessels-350x589.jpg": "figures/chapter-2/es-fig-2-23b.png"
+      }
+    },
+    "cells-of-the-nervous-system.html": {
+      "title": "Bajo el microscopio: células del sistema nervioso",
+      "source": "chunks/cells-nervous-system",
+      "figures": {
+        "9105900f30c4e57e-neuron-350x186.jpg": "figures/chapter-2/es-fig-2-24.png",
+        "81e748e956354e13-neuron-types-350x277.jpg": "figures/chapter-2/es-fig-2-25.png",
+        "2116286238aaa711-dendrites-350x186.jpg": "figures/chapter-2/es-fig-2-27.png",
+        "dc267e48064fd69d-pericyte-cartoon-350x258.jpg": "figures/chapter-2/es-fig-2-33.png"
       }
     }
   }

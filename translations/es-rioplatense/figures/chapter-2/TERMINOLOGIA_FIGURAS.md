@@ -8,13 +8,13 @@ anatómica.
 ## Alcance
 
 Se localizaron las figuras 2.1–2.6, 2.8–2.11, 2.14–2.15, 2.17–2.18,
-2.20–2.22 y 2.23b.
+2.20–2.22, 2.23b, 2.24, 2.25, 2.27 y 2.33.
 
 No fue necesario modificar:
 
 - la figura 2.7, cuyos rótulos direccionales tienen la misma forma en español;
-- las figuras 2.12, 2.13, 2.16, 2.19 y 2.23a, que no contienen rótulos
-  explicativos en inglés.
+- las figuras 2.12, 2.13, 2.16, 2.19, 2.23a, 2.26, 2.28–2.32 y 2.34, que no
+  contienen rótulos explicativos en inglés.
 
 ## Registros detallados
 
@@ -23,6 +23,7 @@ No fue necesario modificar:
 - [Figuras 2.9–2.11](terms-09-11.md)
 - [Figuras 2.14, 2.15, 2.17 y 2.18](terms-14-18.md)
 - [Figuras 2.20–2.23b](terms-20-23.md)
+- [Figuras 2.24, 2.25, 2.27 y 2.33](terms-24-33.md)
 
 ## Criterios adicionales consolidados
 
@@ -49,6 +50,15 @@ No fue necesario modificar:
 - *dura mater/arachnoid mater/pia mater* →
   **duramadre/aracnoides/piamadre**
 - *superior sagittal sinus* → **seno sagital superior**
+- *axon hillock* → **cono axónico**
+- *presynaptic terminal* → **terminal presináptica**
+- *dendritic spines* → **espinas dendríticas**
+- *smooth muscle cell* → **célula muscular lisa**
+- *pericyte* → **pericito**
+- *astrocyte end foot* → **pie terminal del astrocito**
+- *endothelial cell* → **célula endotelial**
+- *basal lamina* → **lámina basal**
+- *lumen* (vaso sanguíneo) → **luz**
 
 En el esquema hipocampal se adaptaron las siglas `EC` y `DG` a `CE` y `GD`;
 `CA1`, `CA3` y `Sub` se conservaron por su uso anatómico establecido.
