@@ -18,7 +18,27 @@
     },
     "exploring-the-brain-a-tour-of-the-structures-and-cells-of-the-nervous-system.html": {
       "title": "Exploración del cerebro: recorrido por las estructuras del sistema nervioso",
-      "source": "chunks/exploring-brain"
+      "source": "chunks/exploring-brain",
+      "figures": {
+        "fd4262e91dcea23c-cnsandpns.png": "figures/chapter-2/es-fig-2-1.png",
+        "f58a720c5e597674-nervous-system-divisions-350x287.png": "figures/chapter-2/es-fig-2-2.png",
+        "791c94d2ba007f45-fig2.2_draft-350x211.png": "figures/chapter-2/es-fig-2-3.png",
+        "3fdd9e921d502e00-fig2.3-4.5_draft-350x273.png": "figures/chapter-2/es-fig-2-4.png",
+        "dc3d6976f3827ce9-updated-sns-pns-image-1024x807.png": "figures/chapter-2/es-fig-2-5.png",
+        "a129bbcc70d9249a-image6.png": "figures/chapter-2/es-fig-2-6.png",
+        "30509afef1b2f511-brainslices-350x279.png": "figures/chapter-2/es-fig-2-8.png",
+        "995726c5c0663efb-fig2.9_draft-1-350x211.png": "figures/chapter-2/es-fig-2-9.png",
+        "bbf7aeda45c7da9c-fig2.9_draft-350x273.png": "figures/chapter-2/es-fig-2-10.png",
+        "641c96057471d24c-fig2.10_draft-350x397.png": "figures/chapter-2/es-fig-2-11.png",
+        "98c06cbebd865f84-fig2.14_draft-1-350x273.png": "figures/chapter-2/es-fig-2-14.png",
+        "8921635897b2df43-fig2.15_draft-350x273.png": "figures/chapter-2/es-fig-2-15.png",
+        "389ba38c4a042596-fig2.16_draft-350x350.png": "figures/chapter-2/es-fig-2-17.png",
+        "3c45d3848ee5b2b8-anatomy_of_the_basal_ganglia-350x262.jpeg": "figures/chapter-2/es-fig-2-18.png",
+        "c9e889291cd4feac-cajalhippocampus_modified-1024x555.png": "figures/chapter-2/es-fig-2-20.png",
+        "d1091a26bed28e25-blausen_0216_cerebrospinalsystem-350x263.png": "figures/chapter-2/es-fig-2-21.png",
+        "d19226e2c7f63aae-1316_meningeal_layersn-1-350x190.png": "figures/chapter-2/es-fig-2-22.png",
+        "0d37411e27493b93-bloodvessels-350x589.jpg": "figures/chapter-2/es-fig-2-23b.png"
+      }
     }
   }
 }

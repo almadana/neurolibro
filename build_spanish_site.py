@@ -107,6 +107,21 @@ def main() -> int:
 
         fragment = translated_fragment(info["source"])
         replace_contents(content, fragment)
+        for original_name, translated_source in info.get("figures", {}).items():
+            figure_source = TRANSLATIONS / translated_source
+            if not figure_source.is_file():
+                raise RuntimeError(f"No existe la figura traducida {figure_source}")
+            figure_output = OUTPUT_SITE / "assets" / "media" / figure_source.name
+            shutil.copy2(figure_source, figure_output)
+            matched = False
+            for image in content.find_all("img", src=True):
+                if Path(urlparse(image["src"]).path).name == original_name:
+                    image["src"] = f"../assets/media/{figure_source.name}"
+                    matched = True
+            if not matched:
+                raise RuntimeError(
+                    f"No se encontró {original_name} en la página {filename}"
+                )
         heading.string = info["title"]
         soup.html["lang"] = "es-AR"
         if soup.title:
