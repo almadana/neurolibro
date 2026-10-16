@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-  "status": "Tres capítulos traducidos; los capítulos restantes permanecen temporalmente en inglés.",
+  "status": "Traducidos los capítulos hasta la electrofisiología; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -49,6 +49,14 @@
         "2116286238aaa711-dendrites-350x186.jpg": "figures/chapter-2/es-fig-2-27.png",
         "dc267e48064fd69d-pericyte-cartoon-350x258.jpg": "figures/chapter-2/es-fig-2-33.png"
       }
+    },
+    "neuronal-communication.html": {
+      "title": "Comunicación neuronal",
+      "source": "pages/neuronal-communication.html"
+    },
+    "electrophysiology-electrical-signalling-in-the-body-2.html": {
+      "title": "Electrofisiología: señalización eléctrica en el organismo",
+      "source": "chunks/electrophysiology"
     }
   }
 }
