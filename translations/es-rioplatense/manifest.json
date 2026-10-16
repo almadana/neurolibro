@@ -75,7 +75,22 @@
     },
     "neuronal-transmission.html": {
       "title": "Transmisión neuronal",
-      "source": "chunks/neuronal-transmission"
+      "source": "chunks/neuronal-transmission",
+      "figures": {
+        "2d6b287ead0b510d-fig3.21_draft-1-350x190.png": "figures/chapter-3/es-fig-3-21.png",
+        "6185596fb8552659-fig3.22_draft-350x273.png": "figures/chapter-3/es-fig-3-22.png",
+        "80fc1c8839e46307-fig3.23_draft-1-350x273.png": "figures/chapter-3/es-fig-3-23.png",
+        "bad556209fdeecc8-fig3.24_draft-350x273.png": "figures/chapter-3/es-fig-3-24.png",
+        "46c693e1632f7fac-fig3.25_draft-350x273.png": "figures/chapter-3/es-fig-3-25.png",
+        "dc2f3b2d2c555080-fig3.26_draft-2-350x273.png": "figures/chapter-3/es-fig-3-26.png",
+        "5181bc8ad8ac9a81-fig3.27_draft-1-350x273.png": "figures/chapter-3/es-fig-3-27.png",
+        "ee96c34d094c9819-fig3.28_draft-350x273.png": "figures/chapter-3/es-fig-3-28.png",
+        "d9443510c6fcbaac-fig3.29_draft-1-350x273.png": "figures/chapter-3/es-fig-3-29.png",
+        "481e705cbe2e82cf-fig3.30_draft-350x273.png": "figures/chapter-3/es-fig-3-30.png",
+        "7d2e5d021e0ea1d6-fig3.31_draft-1-350x273.png": "figures/chapter-3/es-fig-3-31.png",
+        "e0a4b84df4fa77d2-fig3.32_draft-350x350.png": "figures/chapter-3/es-fig-3-32.png",
+        "26ad04b4cffaa381-gap_cell_junction-en.svg": "figures/chapter-3/es-fig-3-33.svg"
+      }
     }
   }
 }
