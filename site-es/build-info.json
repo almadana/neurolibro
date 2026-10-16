@@ -16,8 +16,8 @@
   "licence": "CC BY-NC 4.0, except where otherwise noted",
   "translation": {
     "locale": "es-AR",
-    "translated_pages": 7,
-    "status": "Traducidos los capítulos hasta la electrofisiología; los capítulos restantes permanecen temporalmente en inglés.",
+    "translated_pages": 8,
+    "status": "Traducidos los capítulos hasta la transmisión neuronal; los capítulos restantes permanecen temporalmente en inglés.",
     "guide": "../libroneuro/GUIA_DE_TRADUCCION.md"
   }
 }

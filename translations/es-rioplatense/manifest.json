@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-  "status": "Traducidos los capítulos hasta la electrofisiología; los capítulos restantes permanecen temporalmente en inglés.",
+  "status": "Traducidos los capítulos hasta la transmisión neuronal; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -56,7 +56,26 @@
     },
     "electrophysiology-electrical-signalling-in-the-body-2.html": {
       "title": "Electrofisiología: señalización eléctrica en el organismo",
-      "source": "chunks/electrophysiology"
+      "source": "chunks/electrophysiology",
+      "figures": {
+        "325a5a997d631142-fig3.1_draft-350x273.png": "figures/chapter-3/es-fig-3-1.png",
+        "514059ac494fb401-axonwire.gif": "figures/chapter-3/es-fig-3-2.gif",
+        "d7aab448e3659822-2560px-voltage_clamp_setup.svg.svg": "figures/chapter-3/es-fig-3-6.png",
+        "71af76f796a06945-icfecf_fig.png": "figures/chapter-3/es-fig-3-10.png",
+        "fa9ac6226d2844c2-transporters.png": "figures/chapter-3/es-fig-3-11.png",
+        "b7afb890fb6896a8-restingmempot.png": "figures/chapter-3/es-fig-3-13.png",
+        "daf84e79b95610c9-restingmempot2-350x161.png": "figures/chapter-3/es-fig-3-14.png",
+        "f26792b984adf374-ek.png": "figures/chapter-3/es-fig-3-15.png",
+        "ef144b39ebf9f28f-ena.png": "figures/chapter-3/es-fig-3-16.png",
+        "3a4a8049168967b9-ecl.png": "figures/chapter-3/es-fig-3-17.png",
+        "4da9aacd0a42e484-nernst-equation.png": "figures/chapter-3/es-fig-3-18.png",
+        "521f2bd608b9cf57-ghkeqn-350x231.png": "figures/chapter-3/es-fig-3-19.png",
+        "034c1069bdd9fa39-nakatpase.png": "figures/chapter-3/es-fig-3-20.png"
+      }
+    },
+    "neuronal-transmission.html": {
+      "title": "Transmisión neuronal",
+      "source": "chunks/neuronal-transmission"
     }
   }
 }
