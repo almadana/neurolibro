@@ -89,6 +89,13 @@ traducción y quedan asentadas acá:
 
 ## Figuras
 
-Las figuras 4.31 a 4.44 conservan por ahora los rótulos en inglés. La Figura
-4.33 es un grabado del electroscopio y la 4.45 es una fotografía de
-Chatsworth House. Los créditos y las licencias quedan en el idioma original.
+Los rótulos de las figuras 4.31, 4.32 y 4.34 a 4.40, y de la 4.42 a la 4.44,
+están en español (`es-fig-4-31.png` y siguientes). La 4.33 es un grabado del
+electroscopio sin texto y la 4.41 es un esquema de la vía visual sin rótulos:
+siguen los archivos originales. La 4.45 es una fotografía de Chatsworth House.
+Los créditos, las licencias y las abreviaturas que el capítulo mantiene
+(UV, IR, S, M, L, R, G, PDE, GC, GDP, GTP, GMPc, V1–V6, 4A–4C) quedan como
+están. En el espectro, las iniciales bajo la franja visible se leen en la
+propia figura: Vi violeta, Az azul, Ve verde, Am amarillo, Na naranja, Ro rojo.
+En la figura 4.39, H y B nombran las prolongaciones de la célula horizontal
+y de la bipolar.

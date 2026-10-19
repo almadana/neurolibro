@@ -143,7 +143,21 @@
     },
     "lighting-the-world-our-sense-of-vision.html": {
       "title": "Iluminar el mundo: el sentido de la visión",
-      "source": "chunks/vision"
+      "source": "chunks/vision",
+      "figures": {
+        "200f8ee0758648bd-em_spectrum.svg-350x166.png": "figures/chapter-4/es-fig-4-31.png",
+        "c35a7c41661b43bd-em_wave-350x138.png": "figures/chapter-4/es-fig-4-32.png",
+        "9cfa18c6f88442c2-eye-350x200.jpeg": "figures/chapter-4/es-fig-4-34.png",
+        "3f1bae047f7cf245-fig4.35_newdraft-350x273.png": "figures/chapter-4/es-fig-4-35.png",
+        "f5f61ea16f4c983d-fig4.36_draft-350x273.png": "figures/chapter-4/es-fig-4-36.png",
+        "9ae31ed5103f7bcb-fig4.37_draft-1-350x273.png": "figures/chapter-4/es-fig-4-37.png",
+        "0fe316a4198614e9-spectral-sensitivity-1-350x235.png": "figures/chapter-4/es-fig-4-38.png",
+        "65a02c3ab3482566-fig4.39_draft-350x273.png": "figures/chapter-4/es-fig-4-39.png",
+        "3f33ac5b3cd1e878-image11.png": "figures/chapter-4/es-fig-4-40.png",
+        "37fe07406c4e659d-fig4.42_draft-350x273.png": "figures/chapter-4/es-fig-4-42.png",
+        "43d62d76b56a212d-1424_visual_streams-350x169.jpeg": "figures/chapter-4/es-fig-4-43.png",
+        "a32fee9bdbc8341d-fig4.44_draft-350x273.png": "figures/chapter-4/es-fig-4-44.png"
+      }
     }
   }
 }
