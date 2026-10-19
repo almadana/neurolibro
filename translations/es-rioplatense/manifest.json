@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-  "status": "Traducidos los capítulos hasta la psicofarmacología; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta el sentido del tacto; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -95,6 +95,25 @@
     "40.html": {
       "title": "Psicofarmacología: ¿cómo actúan los fármacos en el cerebro?",
       "source": "chunks/psychopharmacology"
+    },
+    "sensing-the-environment-and-perceiving-the-world.html": {
+      "title": "Sentir el entorno y percibir el mundo",
+      "source": "pages/sensing-the-environment-and-perceiving-the-world.html"
+    },
+    "feeling-the-world-our-sense-of-touch.html": {
+      "title": "Sentir el mundo: el sentido del tacto",
+      "source": "chunks/touch",
+      "figures": {
+        "f1e45fefac9ada9b-fig4.1_draft-350x273.png": "figures/chapter-4/es-fig-4-1.png",
+        "aa82fe27adbbafdc-fig4.2_draft-350x288.png": "figures/chapter-4/es-fig-4-2.png",
+        "cf135f24d0bf8fb1-fig-4.3-stimulus-intensity-350x220.png": "figures/chapter-4/es-fig-4-3.png",
+        "648fd06b6e6bd1a3-fig4.4_draft-350x273.png": "figures/chapter-4/es-fig-4-4.png",
+        "3fdd9e921d502e00-fig2.3-4.5_draft-350x273.png": "figures/chapter-2/es-fig-2-4.png",
+        "29479c8d06c70f10-fig4.6_draft-350x157.png": "figures/chapter-4/es-fig-4-6.png",
+        "cc2e94083f8750fe-fig4.7_draft-350x273.png": "figures/chapter-4/es-fig-4-7.png",
+        "aa40d916fd2b0a98-fig4.8_draft-350x288.png": "figures/chapter-4/es-fig-4-8.png",
+        "c072269665d435ef-fig4.10_draft-350x288.png": "figures/chapter-4/es-fig-4-10.png"
+      }
     }
   }
 }
