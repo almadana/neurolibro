@@ -88,5 +88,22 @@ y aquí queda el registro:
 
 ## Figuras
 
-Las figuras 4.17 a 4.30 conservan los rótulos en inglés. Los epígrafes lo
-indican. Los créditos y las licencias quedan en el idioma original.
+Los rótulos de las figuras 4.17 a 4.25, 4.27 y 4.29 están en español. Los
+créditos y las licencias quedan en el idioma original. K+, Ca2+, Hz, los
+números y las letras de panel (A, B, C, a, b) se conservan.
+
+- 4.17. Las barras grises dicen «comprimido» y «enrarecido»: el original es
+  *compressed air* y *rarefied air*. No entra «aire» en la barra más angosta.
+- 4.24. Se tradujeron los títulos de las vías. Las siglas quedan y se explican
+  en el epígrafe: A1, corteza auditiva primaria; ST, temporal superior; DLPFC
+  y VLPFC, corteza prefrontal dorsolateral y ventrolateral; PPC, corteza
+  parietal posterior.
+- 4.25. Solo se tradujo «basilar membrane». Las frecuencias en Hz quedan.
+- 4.26. No tiene palabras: solo A, B y la escala en milisegundos. Se dejó el
+  original.
+- 4.28 y 4.30. No tienen rótulos (solo el crédito de Eliza Wolfson). Se dejó
+  el original.
+- En 4.20, martillo, yunque y estribo corresponden a *malleus*, *incus* y
+  *stapes*. El texto del capítulo habla de «huesecillos» sin nombrarlos.
+- En 4.21, *scala vestibuli / media / tympani* se tradujeron como rampa
+  vestibular, rampa media y rampa timpánica. Helicotrema queda igual.

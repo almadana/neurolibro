@@ -161,7 +161,22 @@
     },
     "perceiving-sound-our-sense-of-hearing.html": {
       "title": "Percibir el sonido: el sentido de la audición",
-      "source": "chunks/hearing"
+      "source": "chunks/hearing",
+      "figures": {
+        "129f1de0045caff6-fig4.17_draft-350x273.png": "figures/chapter-4/es-fig-4-17.png",
+        "916e46c4a88cbffc-fig4.18_draft-350x273.png": "figures/chapter-4/es-fig-4-18.png",
+        "869884865fc84c02-fig4.19_draft-2-350x168.png": "figures/chapter-4/es-fig-4-19.png",
+        "f020a86861bff419-1404_the_structures_of_the_ear-e1671098730834-350x216.jpeg": "figures/chapter-4/es-fig-4-20.png",
+        "58ab1074327bfe15-fig4boutheear-e1673866017641-350x188.jpeg": "figures/chapter-4/es-fig-4-21a.png",
+        "cd91aaf1ee11e54c-cochlea-350x291.jpeg": "figures/chapter-4/es-fig-4-21b.png",
+        "a256c0bf454f671c-cochleasection-e1666299017854-350x213.jpeg": "figures/chapter-4/es-fig-4-21c.png",
+        "f87e6220f67ef4d6-fig-22-sd329_1_017iedit-1-350x479.png": "figures/chapter-4/es-fig-4-22.png",
+        "f66832aedb191c8a-fig4.23_draft-350x273.png": "figures/chapter-4/es-fig-4-23.png",
+        "16d67b6dbb468690-4.27-350x309.png": "figures/chapter-4/es-fig-4-24.png",
+        "dd7040dc73628f68-fig-4.25-edit-350x419.png": "figures/chapter-4/es-fig-4-25.png",
+        "06aa15d3796b0161-fig4.27_draft-350x273.png": "figures/chapter-4/es-fig-4-27.png",
+        "96c3e00777fe9301-fig4.29_draft-2-350x273.png": "figures/chapter-4/es-fig-4-29.png"
+      }
     }
   }
 }
