@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta el sentido del tacto; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta el dolor; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -129,6 +129,16 @@
         "cc2e94083f8750fe-fig4.7_draft-350x273.png": "figures/chapter-4/es-fig-4-7.png",
         "aa40d916fd2b0a98-fig4.8_draft-350x288.png": "figures/chapter-4/es-fig-4-8.png",
         "c072269665d435ef-fig4.10_draft-350x288.png": "figures/chapter-4/es-fig-4-10.png"
+      }
+    },
+    "from-physical-injury-to-heartache-sensing-pain.html": {
+      "title": "De la lesión física al desamor: sentir el dolor",
+      "source": "chunks/pain",
+      "figures": {
+        "1397e14ead57d619-lossy-page1-1008px-hyperalgesia_and_allodynia.tif_-350x238.jpg": "figures/chapter-4/es-fig-4-11.png",
+        "8f6a0764b104f35d-fig4.12_draft-350x211.png": "figures/chapter-4/es-fig-4-12.png",
+        "0ef0e47c7622099d-fig4.13_draft-350x273.png": "figures/chapter-4/es-fig-4-13.png",
+        "b8477f6481a7737f-fig4.15_draft-350x273.png": "figures/chapter-4/es-fig-4-15.png"
       }
     }
   }
