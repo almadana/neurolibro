@@ -94,7 +94,23 @@
     },
     "40.html": {
       "title": "Psicofarmacología: ¿cómo actúan los fármacos en el cerebro?",
-      "source": "chunks/psychopharmacology"
+      "source": "chunks/psychopharmacology",
+      "figures": {
+        "f552750b6ae6d17a-image3-350x193.jpeg": "figures/chapter-3/es-fig-3-35.png",
+        "a0a52f59e9cd09a8-image4-350x494.jpeg": "figures/chapter-3/es-fig-3-36.png",
+        "1c11015f82c69567-screenshot-2022-11-07-at-12.44.40-350x287.png": "figures/chapter-3/es-fig-3-37.png",
+        "63a72b994f6088b9-image6-350x294.jpeg": "figures/chapter-3/es-fig-3-38.png",
+        "78b9de753a083bd1-fig3.38_draft-1-350x273.png": "figures/chapter-3/es-fig-3-39.png",
+        "9a33a675f3ab93b0-image8-350x186.jpeg": "figures/chapter-3/es-fig-3-40.png",
+        "b7ad2f2e56b1bd36-fig3.41_draft-350x273.png": "figures/chapter-3/es-fig-3-41.png",
+        "a232a347e871536a-fig3.42_draft-350x273.png": "figures/chapter-3/es-fig-3-42.png",
+        "2c00003268e4012a-fig-1-2xedit-e1671112385977-350x276.png": "figures/chapter-3/es-fig-3-43.png",
+        "1734d0da926a2095-3.43.-comparing-efficacy-and-potency-of-analgesic-drugs-e167.png": "figures/chapter-3/es-fig-3-44.png",
+        "5afd302b438545d5-agonist-finished-edit-1-350x257.png": "figures/chapter-3/es-fig-3-45.png",
+        "487bce58086d1ffd-3.45-antagonist-graphs-e1671097670538-350x535.png": "figures/chapter-3/es-fig-3-46.png",
+        "8cd0b90d54a84fde-image17.jpeg": "figures/chapter-3/es-fig-3-47.png",
+        "87e1f1bf6fd2353d-image18-350x231.jpeg": "figures/chapter-3/es-fig-3-48.png"
+      }
     },
     "sensing-the-environment-and-perceiving-the-world.html": {
       "title": "Sentir el entorno y percibir el mundo",
