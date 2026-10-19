@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta el dolor; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta la visión; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -140,6 +140,10 @@
         "0ef0e47c7622099d-fig4.13_draft-350x273.png": "figures/chapter-4/es-fig-4-13.png",
         "b8477f6481a7737f-fig4.15_draft-350x273.png": "figures/chapter-4/es-fig-4-15.png"
       }
+    },
+    "lighting-the-world-our-sense-of-vision.html": {
+      "title": "Iluminar el mundo: el sentido de la visión",
+      "source": "chunks/vision"
     }
   }
 }
