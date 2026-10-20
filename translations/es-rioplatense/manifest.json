@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta los sentidos químicos; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta el sistema motor; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -190,6 +190,17 @@
         "8737af0baf93d17c-1403_olfaction-e1673886095275-350x234.jpg": "figures/chapter-4/es-fig-4-50.png",
         "7eba4eaa421de0a9-nerv_372-350x250.jpeg": "figures/chapter-4/es-fig-4-51.png",
         "7d56a52cd8bf8bbe-4.52-odorants-350x372.png": "figures/chapter-4/es-fig-4-52.png"
+      }
+    },
+    "interacting-with-the-world.html": {
+      "title": "Interacción con el mundo",
+      "source": "pages/interacting-with-the-world.html"
+    },
+    "the-motor-system.html": {
+      "title": "El sistema motor",
+      "source": "chunks/motor",
+      "figures": {
+        "3fdd9e921d502e00-fig2.3-4.5_draft-350x273.png": "figures/chapter-2/es-fig-2-4.png"
       }
     }
   }

@@ -23,7 +23,7 @@ Después, abrir <http://localhost:8002>.
 ## Edición progresiva en español
 
 La traducción al español rioplatense se genera en [`site-es/`](site-es/). Por
-ahora incluye los capítulos hasta los sentidos químicos; las páginas restantes se conservan
+ahora incluye los capítulos hasta el sistema motor; las páginas restantes se conservan
 en inglés para que la navegación siga funcionando.
 
 ```bash
