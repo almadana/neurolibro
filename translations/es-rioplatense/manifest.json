@@ -180,7 +180,17 @@
     },
     "chemical-senses.html": {
       "title": "Sentidos químicos: el gusto y el olfato",
-      "source": "chunks/chemical"
+      "source": "chunks/chemical",
+      "figures": {
+        "ca5c359c21cdafe2-1402_the_tongue.jpg": "figures/chapter-4/es-fig-4-46.png",
+        "1764d3b14590a55b-tastepathway.png": "figures/chapter-4/es-fig-4-47.png",
+        "a89f371ee13aa94c-fig-4.48-3-1.png": "figures/chapter-4/es-fig-4-48.png",
+        "aace358be442fe4a-enac-350x206.png": "figures/chapter-4/es-fig-4-49a.png",
+        "4a4ae3823fce9ff8-tastemap-1024x364.png": "figures/chapter-4/es-fig-4-49.png",
+        "8737af0baf93d17c-1403_olfaction-e1673886095275-350x234.jpg": "figures/chapter-4/es-fig-4-50.png",
+        "7eba4eaa421de0a9-nerv_372-350x250.jpeg": "figures/chapter-4/es-fig-4-51.png",
+        "7d56a52cd8bf8bbe-4.52-odorants-350x372.png": "figures/chapter-4/es-fig-4-52.png"
+      }
     }
   }
 }

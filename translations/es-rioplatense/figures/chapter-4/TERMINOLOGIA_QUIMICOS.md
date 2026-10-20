@@ -82,6 +82,8 @@ pensás). *revise* se tomó en el sentido británico de repasar.
 
 ## Figuras
 
-Las figuras 4.46, 4.47, 4.48, 4.49a, 4.49, 4.50, 4.51 y 4.52 conservan los
-rótulos en inglés. Los epígrafes lo indican. La 4.49b solo tiene las
-subunidades α y βγ. Los créditos y las licencias quedan en el idioma original.
+Las figuras 4.46, 4.47, 4.48, 4.49a, 4.49, 4.50, 4.51 y 4.52 tienen los rótulos
+en español (`generate-chemical-figures.py`). ENaC, VII, IX, X y H+ se conservan.
+La 4.49b solo tiene las subunidades α y βγ y no se regeneró. Los créditos y las
+licencias quedan en el idioma original. En la 4.50 el rótulo de los cilios
+olfativos queda en el margen, junto a la línea que señala el epitelio.
