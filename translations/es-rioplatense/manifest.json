@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta la adicción; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta los trastornos del estado de ánimo; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -251,6 +251,16 @@
         "5e1a1ed70130ef7e-fig6.1_draft-350x273.png": "figures/chapter-6/es-fig-6-1.png",
         "0648dc8b8e37dc1c-image2-3.png": "figures/chapter-6/es-fig-6-2.png",
         "398abb0e103d5dad-fig1.14_draft-350x273.png": "figures/chapter-6/es-fig-6-3.png"
+      }
+    },
+    "affective-disorders-2.html": {
+      "title": "Trastornos del estado de ánimo",
+      "source": "chunks/affective",
+      "figures": {
+        "bc8772e51646df29-image1-2.png": "figures/chapter-6/es-fig-6-4.png",
+        "28f9d7c4373a908a-image2-4.png": "figures/chapter-6/es-fig-6-5.png",
+        "ebbe53801b670915-ssri_how_they_work-350x248.jpeg": "figures/chapter-6/es-fig-6-6.png",
+        "ce7bd4a699ac7f3d-fig6.6_draft-350x273.png": "figures/chapter-6/es-fig-6-7.png"
       }
     }
   }
