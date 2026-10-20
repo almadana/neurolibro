@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta la integración sensitivomotora; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta la conducta motivada; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -226,6 +226,18 @@
         "42f44cd60ccded8e-fig5.16_draft-350x273.png": "figures/chapter-5/es-fig-5-18.png",
         "c43b8098b6e2af50-5.17-oculomotor-loop-redraw-e1671538209998-350x488.png": "figures/chapter-5/es-fig-5-19.png",
         "8d1932461c7dd0c8-fig-5.18-redraw-e1671538291618-350x161.png": "figures/chapter-5/es-fig-5-20.png"
+      }
+    },
+    "motivated-behaviour.html": {
+      "title": "Conducta motivada: nutrición y alimentación",
+      "source": "chunks/motivated",
+      "figures": {
+        "0bcec61f2242cd97-skinner_box_scheme_01.svg-350x352.png": "figures/chapter-5/es-fig-5-21.png",
+        "86b4a68f2b0d1b8d-fig5.22_draft-350x273.png": "figures/chapter-5/es-fig-5-22.png",
+        "3195cdaf96f47773-1920px-key_hypothalamic_nuclei_and_other_areas_involved_in_g.png": "figures/chapter-5/es-fig-5-23.png",
+        "af15e1b279047183-fig5.24_draft-350x273.png": "figures/chapter-5/es-fig-5-24.png",
+        "8a89a94df4fd3c25-fig5.25_draft-3-350x273.png": "figures/chapter-5/es-fig-5-25.png",
+        "72837103cc645e2c-dopaminergic_pathways.svg-1-1024x705-1-350x245.png": "figures/chapter-5/es-fig-5-26.png"
       }
     }
   }
