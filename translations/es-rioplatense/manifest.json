@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta los trastornos del estado de ánimo; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta la esquizofrenia; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -261,6 +261,14 @@
         "28f9d7c4373a908a-image2-4.png": "figures/chapter-6/es-fig-6-5.png",
         "ebbe53801b670915-ssri_how_they_work-350x248.jpeg": "figures/chapter-6/es-fig-6-6.png",
         "ce7bd4a699ac7f3d-fig6.6_draft-350x273.png": "figures/chapter-6/es-fig-6-7.png"
+      }
+    },
+    "schizophrenia.html": {
+      "title": "Esquizofrenia",
+      "source": "chunks/schizophrenia",
+      "figures": {
+        "e7ab6ea23a3d21f6-image1-1.png": "figures/chapter-6/es-fig-6-8.png",
+        "4e66b569de0e264a-image2-2.png": "figures/chapter-6/es-fig-6-9.png"
       }
     }
   }
