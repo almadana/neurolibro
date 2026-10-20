@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta el sistema motor; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta la integración sensitivomotora; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -215,6 +215,17 @@
         "8e7d89a68e6519d7-purves-neuroscience-2004-fig18.5-1024x446-1-e1670322092807-3.png": "figures/chapter-5/es-fig-5-12.png",
         "e270b1a400f1f2d5-basalganglia-e1671098895434-350x137.png": "figures/chapter-5/es-fig-5-13.png",
         "e5ebb99b19d88b64-1024px-blausen_0704_parkinsonsdisease-350x210.png": "figures/chapter-5/es-fig-5-15.png"
+      }
+    },
+    "sensorimotor-integration.html": {
+      "title": "Integración sensitivomotora",
+      "source": "chunks/sensorimotor",
+      "figures": {
+        "7732fa057b42210c-fig5.14_draft-350x273.png": "figures/chapter-5/es-fig-5-16.png",
+        "c319690c1a6b8da2-fig5.15_draft-350x211.png": "figures/chapter-5/es-fig-5-17.png",
+        "42f44cd60ccded8e-fig5.16_draft-350x273.png": "figures/chapter-5/es-fig-5-18.png",
+        "c43b8098b6e2af50-5.17-oculomotor-loop-redraw-e1671538209998-350x488.png": "figures/chapter-5/es-fig-5-19.png",
+        "8d1932461c7dd0c8-fig-5.18-redraw-e1671538291618-350x161.png": "figures/chapter-5/es-fig-5-20.png"
       }
     }
   }
