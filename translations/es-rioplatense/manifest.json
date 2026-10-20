@@ -200,7 +200,21 @@
       "title": "El sistema motor",
       "source": "chunks/motor",
       "figures": {
-        "3fdd9e921d502e00-fig2.3-4.5_draft-350x273.png": "figures/chapter-2/es-fig-2-4.png"
+        "3fdd9e921d502e00-fig2.3-4.5_draft-350x273.png": "figures/chapter-2/es-fig-2-4.png",
+        "479e4214ae6dd258-fig5.1_draft-1-350x273.png": "figures/chapter-5/es-fig-5-1.png",
+        "18b034e6f20c86ec-motorregions-350x214.png": "figures/chapter-5/es-fig-5-2.png",
+        "d84740d7782fd9a7-fig5.3_draft.png": "figures/chapter-5/es-fig-5-3.png",
+        "c0a4d0109aae3e6f-fig5.4_draft-350x273.png": "figures/chapter-5/es-fig-5-4.png",
+        "503cc900fc8b3b95-corticospinal-tract-350x386.png": "figures/chapter-5/es-fig-5-5.png",
+        "f31619f16b3322e1-fig5.6a_v2_draft-350x211.png": "figures/chapter-5/es-fig-5-6a.png",
+        "0be39cd639bcc82b-fig5.7_draft-350x273.png": "figures/chapter-5/es-fig-5-7.png",
+        "99165884b8f1c776-motorunitandpool-350x151.png": "figures/chapter-5/es-fig-5-8a.png",
+        "ed844bb40a18446e-5.7-graph-1-e1674489871823-350x207.png": "figures/chapter-5/es-fig-5-8b.png",
+        "c84e320197a4a038-neuromuscularjunction-350x196.png": "figures/chapter-5/es-fig-5-9.png",
+        "457e11b49c2c4320-screenshot-2022-12-19-at-13.43.18-350x176.png": "figures/chapter-5/es-fig-5-10.png",
+        "8e7d89a68e6519d7-purves-neuroscience-2004-fig18.5-1024x446-1-e1670322092807-3.png": "figures/chapter-5/es-fig-5-12.png",
+        "e270b1a400f1f2d5-basalganglia-e1671098895434-350x137.png": "figures/chapter-5/es-fig-5-13.png",
+        "e5ebb99b19d88b64-1024px-blausen_0704_parkinsonsdisease-350x210.png": "figures/chapter-5/es-fig-5-15.png"
       }
     }
   }

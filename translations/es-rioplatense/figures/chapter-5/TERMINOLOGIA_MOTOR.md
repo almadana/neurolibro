@@ -1,9 +1,13 @@
 # Terminología del sistema motor
 
 Decisiones de este capítulo, alineadas con la guía y con los capítulos ya
-publicados. Los rótulos de las figuras 5.1 a 5.15 siguen en inglés, salvo la
-5.6b, que reutiliza la figura ya traducida de las vértebras y los dermatomas.
-La 5.11 es una fotografía sin rótulos anatómicos.
+publicados. Los rótulos de las figuras 5.1, 5.2, 5.4, 5.5, 5.6a, 5.7, 5.8a,
+5.8b, 5.9, 5.10, 5.12, 5.13 y 5.15 están en español. La 5.6b reutiliza la
+figura ya traducida de las vértebras y los dermatomas. La 5.11 es una
+fotografía sin rótulos. Las 5.14a y 5.14b no tienen palabras. En la 5.3 se
+tradujeron las tres burbujas; los nombres de las partes del cuerpo siguen la
+curva del homúnculo y se glosan en el epígrafe. El crédito de Eliza Wolfson
+queda en el original.
 
 ## Términos
 
