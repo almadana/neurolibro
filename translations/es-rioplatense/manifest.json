@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta la audición; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta los sentidos químicos; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -177,6 +177,10 @@
         "06aa15d3796b0161-fig4.27_draft-350x273.png": "figures/chapter-4/es-fig-4-27.png",
         "96c3e00777fe9301-fig4.29_draft-2-350x273.png": "figures/chapter-4/es-fig-4-29.png"
       }
+    },
+    "chemical-senses.html": {
+      "title": "Sentidos químicos: el gusto y el olfato",
+      "source": "chunks/chemical"
     }
   }
 }
