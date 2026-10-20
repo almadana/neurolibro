@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta la conducta motivada; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta la adicción; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -238,6 +238,19 @@
         "af15e1b279047183-fig5.24_draft-350x273.png": "figures/chapter-5/es-fig-5-24.png",
         "8a89a94df4fd3c25-fig5.25_draft-3-350x273.png": "figures/chapter-5/es-fig-5-25.png",
         "72837103cc645e2c-dopaminergic_pathways.svg-1-1024x705-1-350x245.png": "figures/chapter-5/es-fig-5-26.png"
+      }
+    },
+    "dysfunction-of-the-nervous-system.html": {
+      "title": "Disfunción del sistema nervioso",
+      "source": "pages/dysfunction-of-the-nervous-system.html"
+    },
+    "addiction.html": {
+      "title": "Adicción",
+      "source": "chunks/addiction",
+      "figures": {
+        "5e1a1ed70130ef7e-fig6.1_draft-350x273.png": "figures/chapter-6/es-fig-6-1.png",
+        "0648dc8b8e37dc1c-image2-3.png": "figures/chapter-6/es-fig-6-2.png",
+        "398abb0e103d5dad-fig1.14_draft-350x273.png": "figures/chapter-6/es-fig-6-3.png"
       }
     }
   }
