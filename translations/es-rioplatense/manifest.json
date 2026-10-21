@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta la esquizofrenia; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducidos los capítulos hasta las demencias; los capítulos restantes permanecen temporalmente en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -269,6 +269,23 @@
       "figures": {
         "e7ab6ea23a3d21f6-image1-1.png": "figures/chapter-6/es-fig-6-8.png",
         "4e66b569de0e264a-image2-2.png": "figures/chapter-6/es-fig-6-9.png"
+      }
+    },
+    "ageing-biological-and-psychological-perspective.html": {
+      "title": "Envejecimiento: una perspectiva biológica y psicológica",
+      "source": "chunks/ageing",
+      "figures": {
+        "5942945f0c676843-brain_weight_age.gif": "figures/chapter-6/es-fig-6-10.png",
+        "3cb51e6eb7a447da-fig6.10_draft-350x273.png": "figures/chapter-6/es-fig-6-11.png"
+      }
+    },
+    "dementias.html": {
+      "title": "Demencias",
+      "source": "chunks/dementias",
+      "figures": {
+        "b96e8d2b754400ff-dementia-pie-chart-1-350x247.png": "figures/chapter-6/es-fig-6-12.png",
+        "947579af9a03af60-fig6.13_draft-1-350x181.png": "figures/chapter-6/es-fig-6-14.png",
+        "2d53dbe0e1fadee2-2113ab_atherosclerosis.jpeg": "figures/chapter-6/es-fig-6-15.png"
       }
     }
   }
