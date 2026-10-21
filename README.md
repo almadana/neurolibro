@@ -22,9 +22,8 @@ Después, abrir <http://localhost:8002>.
 
 ## Edición progresiva en español
 
-La traducción al español rioplatense se genera en [`site-es/`](site-es/). Por
-ahora incluye todos los capítulos; los créditos y el prólogo se conservan
-en inglés para que la navegación siga funcionando.
+La traducción al español rioplatense se genera en [`site-es/`](site-es/) e
+incluye el libro completo: capítulos, prólogo y créditos.
 
 ```bash
 python build_spanish_site.py
