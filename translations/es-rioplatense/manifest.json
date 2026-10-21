@@ -2,7 +2,7 @@
   "locale": "es-AR",
   "book_title": "Introducción a la psicología biológica",
   "book_description": "Libro de acceso abierto para estudiantes de grado sobre las bases biológicas de la conducta, la percepción, el movimiento, la salud mental, el envejecimiento y el funcionamiento neurológico.",
-    "status": "Traducidos los capítulos hasta las demencias; los capítulos restantes permanecen temporalmente en inglés.",
+    "status": "Traducido el cuerpo del libro; los créditos y el prólogo permanecen en inglés.",
   "pages": {
     "background-to-biological-psychology.html": {
       "title": "Fundamentos de la psicología biológica",
@@ -286,6 +286,15 @@
         "b96e8d2b754400ff-dementia-pie-chart-1-350x247.png": "figures/chapter-6/es-fig-6-12.png",
         "947579af9a03af60-fig6.13_draft-1-350x181.png": "figures/chapter-6/es-fig-6-14.png",
         "2d53dbe0e1fadee2-2113ab_atherosclerosis.jpeg": "figures/chapter-6/es-fig-6-15.png"
+      }
+    },
+    "title-placebos-a-psychological-and-biological-perspective.html": {
+      "title": "Placebos: una perspectiva psicológica y biológica",
+      "source": "chunks/placebos",
+      "figures": {
+        "6676a68f609ac14b-placebo-effect-1-e1671630329545-350x289.png": "figures/chapter-6/es-fig-6-16.png",
+        "696bc3ec25d1a1b3-48558130407_a9b7577586_k.jpg": "figures/chapter-6/es-fig-6-17.png",
+        "8085a835f1781925-image3-2.png": "figures/chapter-6/es-tabla-6-1.png"
       }
     }
   }
